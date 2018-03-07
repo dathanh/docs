@@ -7,7 +7,7 @@ Routing
 
 Routing provides you tools that map URLs to controller actions. By defining
 routes, you can separate how your application is implemented from how its URL's
-are structured.
+are structured.wgeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeew
 
 Routing in CakePHP also encompasses the idea of reverse routing, where an array
 of parameters can be transformed into a URL string. By using reverse routing,
@@ -15,7 +15,7 @@ you can re-factor your application's URL structure without having to update all
 your code.
 
 .. index:: routes.php
-
+wwwwwwwwwrrrrrerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 Quick Tour
 ==========
 
